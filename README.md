@@ -25,6 +25,6 @@ Ensure you have Python 3.7 or higher installed on your machine.
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Vijip09/generic-churn-prediction>
 cd churn-prediction
 
