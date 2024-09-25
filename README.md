@@ -1,4 +1,3 @@
-﻿# generic-churn-prediction
  # Churn Prediction System
 
 ## Overview
